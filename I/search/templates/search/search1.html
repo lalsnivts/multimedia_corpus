@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+<form id="search_main">
+Словоформа: <input type="text" name="wf" id="wf"><br>
+Лемма: <input type="text" name="ana.lex" id="ana.lex"><br>
+Падеж: <input type="text" name="ana.gr.case" id="ana.gr.case"><br>
+<input type="submit">
+<span id="query">...</span><br>
+<span id="result">...</span>
+</form>
+<script>
+$("#search_main").on( "submit", function( event ) {
+	$("#query").html( $("#search_main").serialize() );
+	$.ajax({
+		url: "ex",
+		data: $("#search_main").serialize(),
+		type: "GET",
+		dataType : "json",
+		success: function( json ) {
+			$("#result").html(JSON.stringify(json));
+		},
+		 error: function( xhr, status, errorThrown ) {
+			alert( "Sorry, there was a problem!" );
+		}
+	});
+	event.preventDefault();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Поиск</title>
+</head>
+<body>
+    {% if errors %}
+        <ul>
+            {% for error in errors %}
+                <li style="color: red;">{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    <form action="" method="get">
+        <label>Введите запрос</label>
+        <input name="je" type="text">
+
+        <input type="submit" value="Отправить">
+        {% csrf_token %}
+    </form>
+</body>
+</html>

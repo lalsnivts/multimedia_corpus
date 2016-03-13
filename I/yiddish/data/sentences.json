@@ -1,0 +1,8527 @@
+[
+  {
+    "first_in_tier": true, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "899.0", 
+    "words": [
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "yiddisher", 
+        "type": "word"
+      }, 
+      {
+        "wf": "bokher", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bokhern", 
+            "transl_en": "dress to attract women (with 'zikh')", 
+            "gr": {
+              "lang": "hebrew", 
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "bokhern", 
+            "transl_en": "dress to attract women (with 'zikh')", 
+            "gr": {
+              "lang": "hebrew", 
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "bokher", 
+            "transl_en": "bachelor; adolescent boy, young man; fellow; penis (body part) (jocular)", 
+            "gr": {
+              "lang": "hebrew", 
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "900.75"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "900.75", 
+    "words": [
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "blase", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "blas", 
+            "transl_en": "pale", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "blas", 
+            "transl_en": "pale", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "blas", 
+            "transl_en": "pale", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "blasn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "blas", 
+            "transl_en": "pale", 
+            "gr": {
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "blas", 
+            "transl_en": "pale", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ponim", 
+        "type": "word"
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "904.205"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "904.205", 
+    "words": [
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "blay", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "blay", 
+            "transl_en": "lead (Pb)", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vayse", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vays", 
+            "transl_en": "white", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vays", 
+            "transl_en": "white", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vays", 
+            "transl_en": "white", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "hent", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hant", 
+            "transl_en": "hand", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "906.36"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "908.952", 
+    "words": [
+      {
+        "wf": "ot", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ot", 
+            "transl_en": "this very", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "er", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "er", 
+            "transl_en": "he", 
+            "gr": {
+              "case": "nom", 
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vil", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "veln", 
+            "transl_en": "want", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "veln", 
+            "transl_en": "want", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "veln", 
+            "transl_en": "want", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zol", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zoln", 
+            "transl_en": "should", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zoln", 
+            "transl_en": "should", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zoln", 
+            "transl_en": "should", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nor", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nor", 
+            "transl_en": "but, only", 
+            "gr": {}
+          }
+        ]
+      }, 
+      {
+        "wf": "zayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "yidn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "forn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "oykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "oykh", 
+            "transl_en": "also", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "913.03"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "913.03", 
+    "words": [
+      {
+        "wf": "Itst", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "itst", 
+            "transl_en": "now", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dort", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "dort", 
+            "transl_en": "there", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tswey", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "915.62"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "915.62", 
+    "words": [
+      {
+        "wf": "yidn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "forn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "aykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ir", 
+            "transl_en": "you (pl)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "918.4"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "918.4", 
+    "words": [
+      {
+        "wf": "zoln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zoln", 
+            "transl_en": "should", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "zoln", 
+            "transl_en": "should", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "do", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "do", 
+            "transl_en": "here", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sakh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sakh", 
+            "transl_en": "many, sum", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsores", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsore", 
+            "transl_en": "trouble, misfortune, distress", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sakh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sakh", 
+            "transl_en": "many, sum", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsores", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsore", 
+            "transl_en": "trouble, misfortune, distress", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "923.338"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "925.319", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zveytns", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "926.66"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "928.64", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "'", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "s", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "do", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "do", 
+            "transl_en": "here", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "oykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "oykh", 
+            "transl_en": "also", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kleyne", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "teyl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "teyln", 
+            "transl_en": "apportion; divide", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyl", 
+            "transl_en": "part", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyln", 
+            "transl_en": "apportion; divide", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyl", 
+            "transl_en": "ruin", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kleyne", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kleyn", 
+            "transl_en": "small", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "teyl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "teyln", 
+            "transl_en": "apportion; divide", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyl", 
+            "transl_en": "part", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyln", 
+            "transl_en": "apportion; divide", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "teyl", 
+            "transl_en": "ruin", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "932.308"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "932.308", 
+    "words": [
+      {
+        "wf": "eyne", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gekumen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "adj_form": "short", 
+              "v_form": "ptcp", 
+              "tense": "past", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nokh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nokh", 
+            "transl_en": "after; yet, still; even; more (in positive constructions only)", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "eyder", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "eyder", 
+            "transl_en": "before", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "malkhome", 
+        "type": "word"
+      }, 
+      {
+        "wf": "und", 
+        "type": "word"
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kumen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "erekh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "erekh", 
+            "transl_en": "approximation", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "N"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "938.23"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "938.23", 
+    "words": [
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kumen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsu", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsu", 
+            "transl_en": "towards; in addition; each", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "lib", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "lib", 
+            "transl_en": "dear", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "939.97"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "939.97", 
+    "words": [
+      {
+        "wf": "tsu", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsu", 
+            "transl_en": "towards; in addition; each", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "lib", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "lib", 
+            "transl_en": "dear", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ideologishe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sibes", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sibe", 
+            "transl_en": "reason; accident; crisis", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "943.094"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "943.094", 
+    "words": [
+      {
+        "wf": "Davke", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "davke", 
+            "transl_en": "actually; only so; necessarily", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ".", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "Vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "land", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "land", 
+            "transl_en": "country", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "landn", 
+            "transl_en": "land, come to land", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "landn", 
+            "transl_en": "land, come to land", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "liberte", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "egalite", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "fraternite", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "azoy", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "azoy", 
+            "transl_en": "such; so; thus; yes", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zogt", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "men", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "men", 
+            "transl_en": "one (indefinite subject)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "liberte", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "951.99"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "951.99", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "rekht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "rekht", 
+            "transl_en": "right (privilege)", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "rekht", 
+            "transl_en": "right (direction)", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "952.98"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "952.98", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "rekhtn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "rekht", 
+            "transl_en": "right (direction)", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "rekht", 
+            "transl_en": "right (privilege)", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "rekht", 
+            "transl_en": "right (direction)", 
+            "gr": {
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "954.951"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "954.951", 
+    "words": [
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "menshn", 
+        "type": "word"
+      }, 
+      {
+        "wf": ".", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "Ober", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ober", 
+            "transl_en": "but", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "’", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "s", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zeyr", 
+        "type": "word"
+      }, 
+      {
+        "wf": "veyntsik", 
+        "type": "word"
+      }, 
+      {
+        "wf": "-", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "ober", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ober", 
+            "transl_en": "but", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sibe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sibe", 
+            "transl_en": "reason; accident; crisis", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "case": "nom/acc/dat", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "Eyner", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "eyner", 
+            "transl_en": "one", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dertseylt", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "dertseyln", 
+            "transl_en": "recount, tell, narrate", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "dertseyln", 
+            "transl_en": "recount, tell, narrate", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "dertseyln", 
+            "transl_en": "recount, tell, narrate", 
+            "gr": {
+              "adj_form": "short", 
+              "v_form": "ptcp", 
+              "tense": "past", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "dertseyln", 
+            "transl_en": "recount, tell, narrate", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "959.98"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "959.98", 
+    "words": [
+      {
+        "wf": "az", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "az", 
+            "transl_en": "that; when; if", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ven", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ven", 
+            "transl_en": "when; when (interrogative); if (contrary to fact)", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsug", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsug", 
+            "transl_en": "train (German)", 
+            "gr": {
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "961.91"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "961.91", 
+    "words": [
+      {
+        "wf": "durkhgegen", 
+        "type": "word"
+      }, 
+      {
+        "wf": "dem", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "grenitse", 
+        "type": "word"
+      }, 
+      {
+        "wf": "peron", 
+        "type": "word"
+      }, 
+      {
+        "wf": "gebn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gebn", 
+            "transl_en": "give", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsu", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsu", 
+            "transl_en": "towards; in addition; each", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "964.9"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "964.9", 
+    "words": [
+      {
+        "wf": "tsu", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsu", 
+            "transl_en": "towards; in addition; each", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zingen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zingen", 
+            "transl_en": "sing", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "zingen", 
+            "transl_en": "sing", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zikh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zikh", 
+            "transl_en": "self", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "marseliyeze", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "969.6"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "971.54", 
+    "words": [
+      {
+        "wf": "Rober", 
+        "type": "word"
+      }, 
+      {
+        "wf": "Badenter", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "974.2"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "974.2", 
+    "words": [
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gevezen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gevezen", 
+            "transl_en": "former", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "976.71"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "976.71", 
+    "words": [
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ministr", 
+        "type": "word"
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "979.43"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "979.43", 
+    "words": [
+      {
+        "wf": "ikh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ikh", 
+            "transl_en": "I", 
+            "gr": {
+              "case": "nom", 
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "hob", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "im", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "case": "dat", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "er", 
+            "transl_en": "he", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "981.35"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "981.35", 
+    "words": [
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "yustitsiye", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "982.98"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "982.98", 
+    "words": [
+      {
+        "wf": "yustitsiye", 
+        "type": "word"
+      }, 
+      {
+        "wf": "ministr", 
+        "type": "word"
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "hot", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gebrakht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "brengen", 
+            "transl_en": "bring", 
+            "gr": {
+              "adj_form": "short", 
+              "v_form": "ptcp", 
+              "tense": "past", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "durkh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "durkh", 
+            "transl_en": "through", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "grenitse", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "988.61"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "988.61", 
+    "words": [
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "groyse", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "groys", 
+            "transl_en": "large", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "groys", 
+            "transl_en": "large", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "groys", 
+            "transl_en": "large", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "enderung", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "enderung", 
+            "transl_en": "change", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kegn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kegn", 
+            "transl_en": "against, concerning", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "991.8"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "991.8", 
+    "words": [
+      {
+        "wf": "kegn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kegn", 
+            "transl_en": "against, concerning", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "994.07"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "994.07", 
+    "words": [
+      {
+        "wf": "(", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "нрзбр", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "вероятно", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "по-французски", 
+        "type": "word"
+      }, 
+      {
+        "wf": ")", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "office", 
+        "type": "word"
+      }, 
+      {
+        "wf": "la", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "la", 
+        "type": "word"
+      }, 
+      {
+        "wf": "peine", 
+        "type": "word"
+      }, 
+      {
+        "wf": "de", 
+        "type": "word"
+      }, 
+      {
+        "wf": "mort", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "998.93"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "998.93", 
+    "words": [
+      {
+        "wf": "ken", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kenen", 
+            "transl_en": "be able, know", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kenen", 
+            "transl_en": "be able, know", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "kenen", 
+            "transl_en": "be able, know", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1000.41"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1000.41", 
+    "words": [
+      {
+        "wf": "Rober", 
+        "type": "word"
+      }, 
+      {
+        "wf": "Badenter", 
+        "type": "word"
+      }, 
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "aleyn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "aleyn", 
+            "transl_en": "oneself (with a personal pronoun), only", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "efsher", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "efsher", 
+            "transl_en": "maybe", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "geven", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "geboyrn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "geboyrn", 
+            "transl_en": "bear a child", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "geboyrn", 
+            "transl_en": "bear a child", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1007.48"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1007.48", 
+    "words": [
+      {
+        "wf": "vidmet", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vidmen", 
+            "transl_en": "dedicate", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vidmen", 
+            "transl_en": "dedicate", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "vidmen", 
+            "transl_en": "dedicate", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "bukh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bukh", 
+            "transl_en": "book", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "eynem", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "gender": "n", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "eyn", 
+            "transl_en": "one", 
+            "gr": {
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zayne", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "bikher", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bukh", 
+            "transl_en": "book", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zu", 
+        "type": "word"
+      }, 
+      {
+        "wf": "mayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mayn", 
+            "transl_en": "my", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "foter", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "foter", 
+            "transl_en": "father (German)", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "hot", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "mir", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mir", 
+            "transl_en": "we", 
+            "gr": {
+              "case": "nom", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "ikh", 
+            "transl_en": "I", 
+            "gr": {
+              "case": "dat", 
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ir", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ir", 
+            "transl_en": "city", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zi", 
+            "transl_en": "she", 
+            "gr": {
+              "case": "dat", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "ir", 
+            "transl_en": "her", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "ir", 
+            "transl_en": "you (pl)", 
+            "gr": {
+              "case": "nom", 
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gebrakht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "brengen", 
+            "transl_en": "bring", 
+            "gr": {
+              "adj_form": "short", 
+              "v_form": "ptcp", 
+              "tense": "past", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "land", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "land", 
+            "transl_en": "country", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "landn", 
+            "transl_en": "land, come to land", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "landn", 
+            "transl_en": "land, come to land", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1013.41"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1013.41", 
+    "words": [
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "menshens", 
+        "type": "word"
+      }, 
+      {
+        "wf": "rekht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "rekht", 
+            "transl_en": "right (privilege)", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "rekht", 
+            "transl_en": "right (direction)", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1016.55"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1016.55", 
+    "words": [
+      {
+        "wf": "Ober", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ober", 
+            "transl_en": "but", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "dosn", 
+            "transl_en": "defecate (slang, impolite)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zeyr", 
+        "type": "word"
+      }, 
+      {
+        "wf": "veyntsik", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1018.95"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1018.95", 
+    "words": [
+      {
+        "wf": "Men", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "men", 
+            "transl_en": "one (indefinite subject)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fort", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fort", 
+            "transl_en": "after all", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }, 
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "forn", 
+            "transl_en": "travel (by vehicle)", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "es", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1022.62"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1022.62", 
+    "words": [
+      {
+        "wf": "es", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zeyr", 
+        "type": "word"
+      }, 
+      {
+        "wf": "gring", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gring", 
+            "transl_en": "easy; light; frivolous", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "arayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "arayn", 
+            "transl_en": "into", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zu", 
+        "type": "word"
+      }, 
+      {
+        "wf": "gehn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1025.18"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1025.18", 
+    "words": [
+      {
+        "wf": "Aroysgey", 
+        "type": "word"
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "poyln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "Poland", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1028.15"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1028.15", 
+    "words": [
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sakh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sakh", 
+            "transl_en": "many, sum", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "shverer", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "shver", 
+            "transl_en": "difficult", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "shver", 
+            "transl_en": "difficult", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1030.1"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1030.1", 
+    "words": [
+      {
+        "wf": "shverer", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "shver", 
+            "transl_en": "difficult", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "shver", 
+            "transl_en": "difficult", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "poylishe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "regirung", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "regirung", 
+            "transl_en": "government", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gibt", 
+        "type": "word"
+      }, 
+      {
+        "wf": "shoyn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "shoynen", 
+            "transl_en": "look after; care for", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "shoyn", 
+            "transl_en": "already; right away", 
+            "gr": {
+              "pos": "PART"
+            }
+          }, 
+          {
+            "lex": "shoynen", 
+            "transl_en": "look after; care for", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kummpasportn", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1034.197"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1034.197", 
+    "words": [
+      {
+        "wf": "Yinglekh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yingl", 
+            "transl_en": "boy, fellow, lad", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vos", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vos", 
+            "transl_en": "what, why (interrogative); that (conjunction)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vern", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vern", 
+            "transl_en": "defend", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "vern", 
+            "transl_en": "become", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "vern", 
+            "transl_en": "become", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "vern", 
+            "transl_en": "defend", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zibtseyn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "akhttseyn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "yor", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yor", 
+            "transl_en": "year", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "es", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "darfn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "darfn", 
+            "transl_en": "", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "darfn", 
+            "transl_en": "", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gehn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "militer", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "militer", 
+            "transl_en": "army, troops", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1041.097"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1041.097", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "yidn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1043.14"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1043.14", 
+    "words": [
+      {
+        "wf": "hobn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "aza", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "aza", 
+            "transl_en": "such", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "lib", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "lib", 
+            "transl_en": "dear", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zu", 
+        "type": "word"
+      }, 
+      {
+        "wf": "gehn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "militer", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "militer", 
+            "transl_en": "army, troops", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "davke", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "davke", 
+            "transl_en": "actually; only so; necessarily", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "poylishn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "militer", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "militer", 
+            "transl_en": "army, troops", 
+            "gr": {
+              "gender": "n", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1047.109"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1047.109", 
+    "words": [
+      {
+        "wf": "Erschtn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "vayl", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vayl", 
+            "transl_en": "during, as long as; because", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "vayln", 
+            "transl_en": "stay; enjoy oneself (with 'zikh')", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "polakn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1050.56"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1050.56", 
+    "words": [
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "poylishe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poylish", 
+            "transl_en": "Polish", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "armeyzamt", 
+        "type": "word"
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "antisemitishe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "antisemitish", 
+            "transl_en": "antisemitic", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "antisemitish", 
+            "transl_en": "antisemitic", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "antisemitish", 
+            "transl_en": "antisemitic", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1054.17"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1054.17", 
+    "words": [
+      {
+        "wf": "Tsveyte", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsveyt", 
+            "transl_en": "2nd", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "tsveyt", 
+            "transl_en": "2nd", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "tsveyt", 
+            "transl_en": "2nd", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zakh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zakh", 
+            "transl_en": "thing; vagina (body part)", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "-", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "zu", 
+        "type": "word"
+      }, 
+      {
+        "wf": "lib", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "lib", 
+            "transl_en": "dear", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ideologishe", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "ideologish", 
+            "transl_en": "idealogical", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sibes", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sibe", 
+            "transl_en": "reason; accident; crisis", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1057.44"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1057.44", 
+    "words": [
+      {
+        "wf": "Poyln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "Poland", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "Poyln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "Poland", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "milkhome", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "milkhome", 
+            "transl_en": "war", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "case": "nom/acc/dat", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "bolshevikn", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1064.026"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1065.2", 
+    "words": [
+      {
+        "wf": "Un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "sakh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "sakh", 
+            "transl_en": "many, sum", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "yidn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "yid", 
+            "transl_en": "Jew; person (Jewish); anonymous male stranger", 
+            "gr": {
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1067.37"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1069.49", 
+    "words": [
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "linkse", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "linkegeshtimmt", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "bundistn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bundist", 
+            "transl_en": "Bundist, member of Jewish Labor Party", 
+            "gr": {
+              "gender": "m", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "afile", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "afile", 
+            "transl_en": "even, only", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gam", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gam", 
+            "transl_en": "also", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "bundistn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bundist", 
+            "transl_en": "Bundist, member of Jewish Labor Party", 
+            "gr": {
+              "gender": "m", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "hobn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "hobn", 
+            "transl_en": "have; give birth", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "azoy", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "azoy", 
+            "transl_en": "such; so; thus; yes", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "lib", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "lib", 
+            "transl_en": "dear", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "libn", 
+            "transl_en": "love", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "mit", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "mien", 
+            "transl_en": "exert", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "middle", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "mit", 
+            "transl_en": "with", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Bolshevikn", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "na", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "na", 
+            "transl_en": "take!", 
+            "gr": {
+              "pos": "INTJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "derekh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "derekh", 
+            "transl_en": "path", 
+            "gr": {
+              "lang": "hebrew", 
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1080.314"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1080.314", 
+    "words": [
+      {
+        "wf": "Komunistn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "komunist", 
+            "transl_en": "communist", 
+            "gr": {
+              "gender": "m", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zikher", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zikhern", 
+            "transl_en": "assure", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zikhern", 
+            "transl_en": "assure", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zikher", 
+            "transl_en": "sure; safe", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zikher", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zikhern", 
+            "transl_en": "assure", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zikhern", 
+            "transl_en": "assure", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zikher", 
+            "transl_en": "sure; safe", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "politsiya", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "farshidene", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "farshidn", 
+            "transl_en": "different", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "farshidn", 
+            "transl_en": "different", 
+            "gr": {
+              "gender": "n", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "farshidn", 
+            "transl_en": "different", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "zey", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zey", 
+            "transl_en": "they", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "viln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "viln", 
+            "transl_en": "will, desire", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "veln", 
+            "transl_en": "want", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "kempfen", 
+        "type": "word"
+      }, 
+      {
+        "wf": "kegn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kegn", 
+            "transl_en": "against, concerning", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ".", 
+        "type": "punc"
+      }, 
+      {
+        "wf": ".", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "“", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "levpronar", 
+        "type": "word"
+      }, 
+      {
+        "wf": "”", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "(", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "нрзбр", 
+        "type": "word"
+      }, 
+      {
+        "wf": ")", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "1088.153"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1088.153", 
+    "words": [
+      {
+        "wf": "gam", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gam", 
+            "transl_en": "also", 
+            "gr": {
+              "lang": "hebrew", 
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vidmen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "vidmen", 
+            "transl_en": "dedicate", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "vidmen", 
+            "transl_en": "dedicate", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zikh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zikh", 
+            "transl_en": "self", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "aroys", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "aroys", 
+            "transl_en": "out", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fun", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fun", 
+            "transl_en": "from", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Poyln", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "Poland", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "poyln", 
+            "transl_en": "accomplish", 
+            "gr": {
+              "lang": "hebrew", 
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1091.403"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1091.403", 
+    "words": [
+      {
+        "wf": "Arayngeh", 
+        "type": "word"
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1094.31"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1094.31", 
+    "words": [
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "geferlekh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "geferlekh", 
+            "transl_en": "dangerous", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "‘", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "s", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "azoy", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "azoy", 
+            "transl_en": "such; so; thus; yes", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1096.93"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1096.93", 
+    "words": [
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "azoy", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "azoy", 
+            "transl_en": "such; so; thus; yes", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "shver", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "shver", 
+            "transl_en": "father-in-law", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "shver", 
+            "transl_en": "difficult", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "shvern", 
+            "transl_en": "swear", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "shvern", 
+            "transl_en": "swear", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1098.343"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1099.46", 
+    "words": [
+      {
+        "wf": "A", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "porl", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1100.97"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1102.06", 
+    "words": [
+      {
+        "wf": "vivyorke", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "der", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "case": "nom", 
+              "gender": "m", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "reder", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "reder", 
+            "transl_en": "speaker", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "rod", 
+            "transl_en": "wheel", 
+            "gr": {
+              "gender": "f", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "derepes", 
+        "type": "word"
+      }, 
+      {
+        "wf": "zeh", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "a", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "a", 
+            "transl_en": "a (article)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "shrayber", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "shrayber", 
+            "transl_en": "writer", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "vivyorka", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1108.523"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1108.523", 
+    "words": [
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1110.72"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1110.72", 
+    "words": [
+      {
+        "wf": "zayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "fraynt", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "fraynt", 
+            "transl_en": "friend", 
+            "gr": {
+              "gender": "m", 
+              "pos": "N", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "fraynt", 
+            "transl_en": "friend", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zayn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "his/its", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }, 
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "tsvey", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "tsvey", 
+            "transl_en": "2", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "NUM", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "khaverte", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "khaverte", 
+            "transl_en": "girlfriend; comrade (female)", 
+            "gr": {
+              "lang": "hebrew", 
+              "gender": "f", 
+              "pos": "N", 
+              "case": "nom/acc/dat", 
+              "number": "sg"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1113.425"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1113.425", 
+    "words": [
+      {
+        "wf": "kumen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "kumen", 
+            "transl_en": "come", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "durkh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "durkh", 
+            "transl_en": "through", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "belgiye", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1115.27"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1115.27", 
+    "words": [
+      {
+        "wf": "Un", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "un", 
+            "transl_en": "and", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "baym", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "bay", 
+            "transl_en": "at, by, near", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "grenitse", 
+        "type": "word"
+      }, 
+      {
+        "wf": "zhe", 
+        "type": "word"
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zhandarmen", 
+        "type": "word"
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "frantsezishe", 
+        "type": "word"
+      }, 
+      {
+        "wf": "zhandarm", 
+        "type": "word"
+      }, 
+      {
+        "wf": "...", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "azoy", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "azoy", 
+            "transl_en": "such; so; thus; yes", 
+            "gr": {
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zogt", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "person": "2", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "men", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "men", 
+            "transl_en": "one (indefinite subject)", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "?", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "1124.153"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1124.153", 
+    "words": [
+      {
+        "wf": "di", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "A", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "PRON", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "pos": "PRON", 
+              "number": "pl"
+            }
+          }, 
+          {
+            "lex": "der", 
+            "transl_en": "the, this", 
+            "gr": {
+              "gender": "f", 
+              "pos": "A", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "politsistn", 
+        "type": "word"
+      }, 
+      {
+        "wf": "zogn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "v_form": "inf", 
+              "pos": "V"
+            }
+          }, 
+          {
+            "lex": "zogn", 
+            "transl_en": "say", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zey", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zey", 
+            "transl_en": "they", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ":", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "geht", 
+        "type": "word"
+      }, 
+      {
+        "wf": "nisht", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "nisht", 
+            "transl_en": "not", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "durkh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "durkh", 
+            "transl_en": "through", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "den", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "den", 
+            "transl_en": "in that case; else; (after question, expecting negative answer)", 
+            "gr": {
+              "pos": "PART"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ",", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "geht", 
+        "type": "word"
+      }, 
+      {
+        "wf": "arum", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "arum", 
+            "transl_en": "around", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }, 
+          {
+            "lex": "arum", 
+            "transl_en": "around", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "durkh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "durkh", 
+            "transl_en": "through", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "dortn", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "dortn", 
+            "transl_en": "there", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }
+        ]
+      }
+    ], 
+    "end_offset": "1131.41"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1131.41", 
+    "words": [
+      {
+        "wf": "Poshet", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "poshet", 
+            "transl_en": "simple; plain", 
+            "gr": {
+              "lang": "hebrew", 
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "-", 
+        "type": "punc"
+      }, 
+      {
+        "wf": "on", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "on", 
+            "transl_en": "without", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "pres", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "presn", 
+            "transl_en": "press", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "presn", 
+            "transl_en": "press", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "!", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "1134.29"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1134.29", 
+    "words": [
+      {
+        "wf": "Zey", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zey", 
+            "transl_en": "they", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "PRON"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "zeyen", 
+            "transl_en": "sow (seed)", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "zaynen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "pl"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "ongekumen", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "on", 
+            "transl_en": "", 
+            "gr": {
+              "pos": "ADV"
+            }
+          }, 
+          {
+            "lex": "kumen", 
+            "transl_en": "arrive; approach for assistance (with 'tsu')", 
+            "gr": {
+              "adj_form": "short", 
+              "v_form": "ptcp", 
+              "tense": "past", 
+              "pos": "V"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "1923", 
+        "type": "word"
+      }
+    ], 
+    "end_offset": "1137.92"
+  }, 
+  {
+    "first_in_tier": false, 
+    "video_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "doc": ".\\interview 1 improved.eaf", 
+    "start_offset": "1137.92", 
+    "words": [
+      {
+        "wf": "Es", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "v_form": "imp", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "esn", 
+            "transl_en": "eat", 
+            "gr": {
+              "person": "1", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }, 
+          {
+            "lex": "es", 
+            "transl_en": "it", 
+            "gr": {
+              "pos": "PRON"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "az", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "az", 
+            "transl_en": "that; when; if", 
+            "gr": {
+              "pos": "CONJ"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "arayngang", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "arayngang", 
+            "transl_en": "entrance", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "gender": "m", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "in", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "in", 
+            "transl_en": "in", 
+            "gr": {
+              "pos": "PREP"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "Frankraykh", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "frankraykh", 
+            "transl_en": "France", 
+            "gr": {
+              "case": "nom/acc/dat", 
+              "pos": "N", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "iz", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "zayn", 
+            "transl_en": "be", 
+            "gr": {
+              "person": "3", 
+              "tense": "pres", 
+              "pos": "V", 
+              "number": "sg"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gants", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gants", 
+            "transl_en": "whole, full, complete", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": "gring", 
+        "type": "word", 
+        "ana": [
+          {
+            "lex": "gring", 
+            "transl_en": "easy; light; frivolous", 
+            "gr": {
+              "adj_form": "short", 
+              "pos": "A"
+            }
+          }
+        ]
+      }, 
+      {
+        "wf": ".", 
+        "type": "punc"
+      }
+    ], 
+    "end_offset": "1141.612"
+  }
+]

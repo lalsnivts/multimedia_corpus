@@ -1,0 +1,20 @@
+[
+  {
+    "date_since": {
+      "year": 2000
+    }, 
+    "genres": [
+      "lecture"
+    ], 
+    "author": "Some old Jewish guy", 
+    "media_source": "Der mizrekh-eyropeisher yidisher yishev ....mp4", 
+    "title": "Interview No. 1", 
+    "date_till": {
+      "year": 2014
+    }, 
+    "dialect": "some_dialect", 
+    "words": 416, 
+    "sentences": 62, 
+    "filename": ".\\interview 1 improved.eaf"
+  }
+]

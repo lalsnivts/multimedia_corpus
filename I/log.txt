@@ -1,0 +1,55 @@
+﻿1.2046882854e-06	0 distinct words found.
+0.0583584134376	0 entries scanned.
+0.0585800760821	Array size: 36
+0.0585833889749	0 distinct words found.
+0.0585848948352	0 occurrences in 0 sentences.
+﻿8.60426622286	0 distinct words found.
+8.60509203668	0 entries scanned.
+8.60547271818	Array size: 36
+8.60547904279	0 distinct words found.
+8.60548235568	0 occurrences in 0 sentences.
+﻿11.1386186622	0 distinct words found.
+11.1395182632	0 entries scanned.
+11.139913401	Array size: 36
+11.1399194244	0 distinct words found.
+11.1399230385	0 occurrences in 0 sentences.
+﻿12.2517864774	0 distinct words found.
+12.2526869819	0 entries scanned.
+12.2530751927	Array size: 36
+12.2530812162	0 distinct words found.
+12.2530848302	0 occurrences in 0 sentences.
+﻿12.507768583	0 distinct words found.
+12.5087208891	0 entries scanned.
+12.5091988492	Array size: 36
+12.5092054749	0 distinct words found.
+12.5092084867	0 occurrences in 0 sentences.
+﻿139.364732931	0 distinct words found.
+139.365582236	0 entries scanned.
+139.365962316	Array size: 36
+139.365968339	0 distinct words found.
+139.365971953	0 occurrences in 0 sentences.
+﻿140.462106982	0 distinct words found.
+140.462892137	0 entries scanned.
+140.463227944	Array size: 36
+140.463233666	0 distinct words found.
+140.463237281	0 occurrences in 0 sentences.
+﻿141.265418128	0 distinct words found.
+141.26627948	0 entries scanned.
+141.266711963	Array size: 36
+141.266718288	0 distinct words found.
+141.2667216	0 occurrences in 0 sentences.
+﻿234.353892544	1 distinct words found.
+234.394590829	1 entries scanned.
+234.395229615	Array size: 104
+234.395246481	1 distinct words found.
+234.395250396	12 occurrences in 10 sentences.
+﻿1341.29536668	1 distinct words found.
+1341.29616298	1 entries scanned.
+1341.29662799	Array size: 104
+1341.29664154	1 distinct words found.
+1341.29664485	12 occurrences in 10 sentences.
+﻿1359.04646694	225 distinct words found.
+1359.04788275	225 entries scanned.
+1359.06374186	Array size: 1860
+1359.06422464	225 distinct words found.
+1359.06422645	468 occurrences in 62 sentences.

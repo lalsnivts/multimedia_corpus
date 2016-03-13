@@ -1,0 +1,21 @@
+{
+    "wf": 1,
+    "type": 1,
+    "ana": {
+        "lex": 1,
+        "transl_en": 1,
+        "transl_ru": 1,
+        "lexref": 1,
+        "gr": {
+            "pos": 1,
+            "case": 1,
+            "number": 1,
+            "gender": 1,
+            "tense": 1,
+            "person": 1,
+            "v_form": 1,
+            "adj_form": 1,
+            "lang": 1
+        }
+    }
+}
