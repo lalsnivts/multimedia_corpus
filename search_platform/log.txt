@@ -1,0 +1,5 @@
+﻿0.0820036797315	3 distinct words found.
+0.0832857731005	19 entries scanned.
+0.0842522371882	Array size: 52
+0.0842630794154	3 distinct words found.
+0.0842666934911	4 occurrences in 4 sentences.

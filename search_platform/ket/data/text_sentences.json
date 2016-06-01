@@ -1,0 +1,50 @@
+{
+   "original_filename":"Kel05_AbdullaevaEP_bear.eaf",
+   "video":"Kel05_AbdullaevaEP_bear.mp4",
+   "audio":"Kel05_AbdullaevaEP_bear.wav",
+   "sentences":[
+      {
+         "original":"Hi, how are you?",
+         "rus":"Привет, как дела?",
+         "start_ms":1000,
+         "stop_ms":2000,
+         "words":[
+            {
+               "word":"привет",
+               "morphemes":[
+                  {
+                     "morpheme":"привет",
+                     "gl":"hi",
+                     "morpheme_type":0
+                  }
+               ]
+            },
+            {
+               "word":"как",
+               "morphemes":[
+                  {
+                     "morpheme":"как",
+                     "gl":"hi",
+                     "morpheme_type":0
+                  }
+               ]
+            },
+            {
+               "word":"дела",
+               "morphemes":[
+                  {
+                     "morpheme":"дел",
+                     "gl":"hi",
+                     "morpheme_type":0
+                  },
+                  {
+                     "morpheme":"а",
+                     "gl":"PL",
+                     "morpheme_type":2
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

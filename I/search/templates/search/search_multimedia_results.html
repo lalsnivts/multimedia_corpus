@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="{{STATIC_URL}}jquery.js"></script>
+</head>
+<body>
+<div id="result">
+	{% for text in texts %}
+	<div>
+		{% for sentence in text.sentences %}
+			<div>{{ sentence.original_text }}: {{ text.name }}  {{ text.surname }}</div>
+			<div>{{ sentence.translation_text }}</div>
+			{% for word in sentence.words %}
+			
+				{% if word.sentence_word.is_found == 1 %}
+				<span style="color: red;">{{ word.sentence_word.transcription }}</span>
+				{% else %}
+				<span>{{ word.sentence_word.transcription }}</span>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</div>
+    {% endfor %}
+</div>
+</body>
+</html>
