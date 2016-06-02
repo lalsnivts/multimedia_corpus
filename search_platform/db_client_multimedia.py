@@ -6,7 +6,8 @@ import psycopg2.extras
 class DBClientMultimedia:
     conn = None
     
-    query_select = "select t.text_id, s.name, s.patronymic, s.surname, "\
+    query_select = "select t.text_id, mult.multimedia_id, mult.multimedia_url, mult_type.multimedia_type, "\
+                    "s.name, s.patronymic, s.surname, "\
                     "sen.sentence_id, sen.multimedia_start, sen.multimedia_end, "\
                     "sen.original_text, sen.translation_text"
                     
@@ -19,6 +20,9 @@ class DBClientMultimedia:
     
     query_from =  "from multimedia_corpus.texts t "\
                     "join multimedia_corpus.speakers s on s.speaker_id = t.speaker_id "\
+                    "join multimedia_corpus.texts_multimedia tm on t.text_id = tm.text_id "\
+                    "join multimedia_corpus.multimedia mult on mult.multimedia_id = tm.multimedia_id "\
+                    "join multimedia_corpus.multimedia_types mult_type on mult.multimedia_type_id = mult_type.multimedia_type_id "\
                     "join multimedia_corpus.sentences sen on t.text_id = sen.text_id "\
                     "join multimedia_corpus.words w on sen.sentence_id = w.sentence_id "\
                     "join multimedia_corpus.morphemes m on w.word_id = m.word_id "
@@ -29,7 +33,7 @@ class DBClientMultimedia:
     query_condition_all_words = "w2.sentence_id = w.sentence_id"
     query_condition_all_morphemes = "m2.word_id = w2.word_id"
            
-    query_order_group = " order by t.text_id, sen.sentence_id, w.word_order, m.morpheme_order"
+    query_order_group = " order by t.text_id, mult.multimedia_id, sen.sentence_id, w.word_order, m.morpheme_order"
     query_order_all_words = "w2.word_order"
     query_order_all_morphemes = "m2.morpheme_order"
 

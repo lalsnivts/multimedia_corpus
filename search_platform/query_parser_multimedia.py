@@ -25,6 +25,24 @@ class QueryParserMultimedia:
                 cur_text['patronymic'] = result['patronymic']
                 cur_text['surname'] = result['surname']
                 cur_text['sentences'] = []
+                cur_text['multimedia'] = []
+                cur_text['multimedia_ids'] = set()
+                
+            if result['multimedia_id'] not in cur_text['multimedia_ids']:
+                cur_text['multimedia'].append({'type':result['multimedia_type'], 'url': result['multimedia_url']})
+                cur_text['multimedia_ids'].add(result['multimedia_id']) 
+        
+            #the multimedia data repeats for each row
+            #so we only process the data for a single multimedia_row
+            if len(cur_text['multimedia_ids']) >= 2:
+                continue
+            
+            if result['multimedia_id'] not in cur_text['multimedia_ids']:
+                cur_text['multimedia'].append({'type':result['multimedia_type'], 'url': result['multimedia_url']})
+                cur_text['multimedia_ids'].add(result['multimedia_id'])
+                
+                
+                
             if cur_sentence is None or result['sentence_id'] != cur_sentence['sentence_id']:
                 if cur_sentence:
                     cur_text['sentences'].append(cur_sentence)
