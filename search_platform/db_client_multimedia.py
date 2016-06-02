@@ -10,19 +10,28 @@ class DBClientMultimedia:
                     "sen.sentence_id, sen.multimedia_start, sen.multimedia_end, "\
                     "sen.original_text, sen.translation_text"
                     
-    query_select_word = "w.word_transcription as sentence_word"
-    query_select_all_words = "w.word_transcription as found_word, w2.word_transcription as sentence_word"
+    query_select_word = "w.word_id as word_id, w.word_transcription as sentence_word"
+    query_select_all_words = "w2.word_id, w.word_transcription as found_word, w2.word_transcription as sentence_word"
+    
+    query_select_morpheme = "m.morpheme_text as word_morpheme_text, m.morpheme_gloss as word_morpheme_gloss"
+    query_select_all_morphemes = "m.morpheme_text as found_morpheme_text, m.morpheme_gloss as found_morpheme_gloss, "\
+                                 "m2.morpheme_text as word_morpheme_text, m2.morpheme_gloss as word_morpheme_gloss"
     
     query_from =  "from multimedia_corpus.texts t "\
                     "join multimedia_corpus.speakers s on s.speaker_id = t.speaker_id "\
                     "join multimedia_corpus.sentences sen on t.text_id = sen.text_id "\
-                    "join multimedia_corpus.words w on sen.sentence_id = w.sentence_id"
+                    "join multimedia_corpus.words w on sen.sentence_id = w.sentence_id "\
+                    "join multimedia_corpus.morphemes m on w.word_id = m.word_id "
+                    
     query_from_all_words = "multimedia_corpus.words w2"
+    query_from_all_morphemes = "multimedia_corpus.morphemes m2"
     
     query_condition_all_words = "w2.sentence_id = w.sentence_id"
+    query_condition_all_morphemes = "m2.word_id = w2.word_id"
            
-    query_order_group = " order by t.text_id, sen.sentence_id, w.word_order"
+    query_order_group = " order by t.text_id, sen.sentence_id, w.word_order, m.morpheme_order"
     query_order_all_words = "w2.word_order"
+    query_order_all_morphemes = "m2.morpheme_order"
 
     def __init__(self):
         #TODO: db settings!
@@ -55,33 +64,63 @@ class DBClientMultimedia:
         condition = condition.strip(" and ")
         
         print(condition)
+        
+        
         query_string = self.query_select
         
-        is_word_query = self.is_word_query(query)
+        is_morpheme_query = self.is_morpheme_query(query)
+                
+        is_word_query = is_morpheme_query or self.is_word_query(query)
         if is_word_query:
-            query_string += ', ' + self.query_select_all_words + " " + self.query_from + "," + self.query_from_all_words
+            query_string += ', ' + self.query_select_all_words 
         else:  
-            query_string += ', ' + self.query_select_word + " " + self.query_from
+            query_string += ', ' + self.query_select_word
         
         
+        if is_morpheme_query:
+            query_string += ', ' + self.query_select_all_morphemes
+        else:  
+            query_string += ', ' + self.query_select_morpheme
+            
+        if is_word_query:
+            query_string +=  " " + self.query_from + "," + self.query_from_all_words
+        else:
+            query_string +=  " " + self.query_from
+            
+        if is_morpheme_query:
+            query_string +=  "," + self.query_from_all_morphemes
+        
+        
+        
+        
+        
+        
+        if is_word_query:
+            if condition == "":
+                condition = " where "
+            else:
+                condition += " and " 
+            condition += self.query_condition_all_words
+            
+            
+        if is_morpheme_query:
+            condition += " and " + self.query_condition_all_morphemes
         
         if condition != "":
             query_string += " where " + condition
         
-        if is_word_query:
-            if condition == "":
-                query_string += " where "
-            else:
-                query_string += " and "
-            query_string += self.query_condition_all_words
-                    
-        
         query_string +=  self.query_order_group
         if is_word_query:
             query_string +=  "," + self.query_order_all_words
+            
+        if is_morpheme_query:
+            query_string +=  "," + self.query_order_all_morphemes
         
         print(query_string)
         return query_string, parameters
     
     def is_word_query(self, query):
         return 'w.word_transcription' in query
+    
+    def is_morpheme_query(self, query):
+        return 'm.morpheme_text' in query or 'm.morpheme_gloss' in query

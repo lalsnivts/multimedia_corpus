@@ -18,6 +18,20 @@
 				{% else %}
 				<span>{{ word.sentence_word.transcription }}</span>
 				{% endif %}
+				
+			{% endfor %}
+			
+			
+			{% for word in sentence.words %}				
+				{% for morpheme in word.morphemes %}
+					<div>
+					{% if morpheme.morpheme.is_found == 1 %}
+					<span style="color: red;">{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
+					{% else %}
+					<span>{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
+					{% endif %}
+					</div>
+				{% endfor %}
 			{% endfor %}
 		{% endfor %}
 	</div>
