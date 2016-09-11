@@ -1,3 +1,9 @@
 eclipse.preferences.version=1
 encoding//I/search/views.py=utf-8
+encoding//search_platform/common_constants.py=utf-8
 encoding//search_platform/db_client.py=utf-8
+encoding//search_platform/db_client_multimedia.py=utf-8
+encoding//search_platform/db_loader.py=utf-8
+encoding//search_platform/eaf_to_json.py=utf-8
+encoding//search_platform/file_utils.py=utf-8
+encoding//search_platform/query_parser_multimedia.py=utf-8

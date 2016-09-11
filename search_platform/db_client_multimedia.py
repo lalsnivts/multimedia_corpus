@@ -6,7 +6,7 @@ import psycopg2.extras
 class DBClientMultimedia:
     conn = None
     
-    query_select = "select t.text_id, mult.multimedia_id, mult.multimedia_url, mult_type.multimedia_type, "\
+    query_select = "select t.text_id, t.original_name, t.translation_name, t.site_url, mult.multimedia_id, mult.multimedia_url, mult_type.multimedia_type, "\
                     "s.name, s.patronymic, s.surname, "\
                     "sen.sentence_id, sen.multimedia_start, sen.multimedia_end, "\
                     "sen.original_text, sen.translation_text"

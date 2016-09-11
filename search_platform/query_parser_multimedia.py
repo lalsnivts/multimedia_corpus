@@ -20,7 +20,12 @@ class QueryParserMultimedia:
                 if cur_text:
                     result_grouped.append(cur_text)
                 cur_text = dict()
-                cur_text['text_id'] = result['text_id']
+                cur_text['text_id'] = result['text_id']              
+                cur_text['original_name'] = result['original_name']
+                cur_text['translation_name'] = result['translation_name']
+                cur_text['site_url'] = result['site_url']
+
+
                 cur_text['name'] = result['name']
                 cur_text['patronymic'] = result['patronymic']
                 cur_text['surname'] = result['surname']
@@ -29,7 +34,9 @@ class QueryParserMultimedia:
                 cur_text['multimedia_ids'] = set()
                 
             if result['multimedia_id'] not in cur_text['multimedia_ids']:
-                cur_text['multimedia'].append({'type':result['multimedia_type'], 'url': result['multimedia_url']})
+                multimedia_element = {'type':result['multimedia_type'], 'url': result['multimedia_url']}
+                
+                cur_text['multimedia'].append(multimedia_element)
                 cur_text['multimedia_ids'].add(result['multimedia_id']) 
         
             #the multimedia data repeats for each row
@@ -37,10 +44,9 @@ class QueryParserMultimedia:
             if len(cur_text['multimedia_ids']) >= 2:
                 continue
             
-            if result['multimedia_id'] not in cur_text['multimedia_ids']:
+            """if result['multimedia_id'] not in cur_text['multimedia_ids']:
                 cur_text['multimedia'].append({'type':result['multimedia_type'], 'url': result['multimedia_url']})
-                cur_text['multimedia_ids'].add(result['multimedia_id'])
-                
+                cur_text['multimedia_ids'].add(result['multimedia_id'])"""
                 
                 
             if cur_sentence is None or result['sentence_id'] != cur_sentence['sentence_id']:
@@ -50,6 +56,8 @@ class QueryParserMultimedia:
                 cur_sentence['sentence_id'] = result['sentence_id']
                 cur_sentence['original_text'] = result['original_text']
                 cur_sentence['translation_text'] = result['translation_text']
+                cur_sentence['multimedia_start'] = result['multimedia_start']
+                cur_sentence['multimedia_end'] = result['multimedia_end']
                 cur_sentence['words'] = []
             if cur_word is None or result['word_id'] != cur_word['word_id']:
                 if cur_word:

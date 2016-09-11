@@ -15,7 +15,6 @@ import datetime
 search_platform_path = os.path.join(os.path.dirname(os.path.dirname(__file__)),'../search_platform/query_parser.py')
 search_platform_path_multimedia = os.path.join(os.path.dirname(os.path.dirname(__file__)),'../search_platform/query_parser_multimedia.py')
 
-print search_platform_path
 
 query_parser = imp.load_source('query_parser',
                                search_platform_path)
@@ -23,7 +22,7 @@ query_parser = imp.load_source('query_parser',
 query_parser_multimedia = imp.load_source('query_parser_multimedia',
                                search_platform_path_multimedia)
 
-qp = query_parser.QueryParser(u'yiddish')
+#qp = query_parser.QueryParser(u'yiddish')
 
 qp_ket = query_parser_multimedia.QueryParserMultimedia()
 

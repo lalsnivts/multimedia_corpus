@@ -2,40 +2,81 @@
 <html>
 <head>
 <meta charset="utf-8">
-<script src="{{STATIC_URL}}jquery.js"></script>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
 </head>
 <body>
 <div id="result">
-	{% for text in texts %}
-	<div>
-		{% for sentence in text.sentences %}
-			<div>{{ sentence.original_text }}: {{ text.name }}  {{ text.surname }}</div>
-			<div>{{ sentence.translation_text }}</div>
-			{% for word in sentence.words %}
-			
-				{% if word.sentence_word.is_found == 1 %}
-				<span style="color: red;">{{ word.sentence_word.transcription }}</span>
-				{% else %}
-				<span>{{ word.sentence_word.transcription }}</span>
-				{% endif %}
+	{% if texts|length > 0 %}
+		{% for text in texts %}
+		{% if text.site_url %}
+			<a href="{{ text.site_url }}" target="_blank">{{ text.original_name }}:{{ text.translation_name }}</a><br>
+		{% else %}
+			<div>{{ text.original_name }}:{{ text.translation_name}}</div>
+		{% endif %}
+		<div>{{ text.name }}  {{ text.surname }}</div>
+		{% for multimedia_element in text.multimedia %}
+			<a href = "{{ multimedia_element.url }}">{{ multimedia_element.type }}</a>
+		{% endfor %}
+		<div>
+			{% for sentence in text.sentences %}
+				<div>{{ sentence.original_text }}</div>
+				<div>{{ sentence.translation_text }}</div>
 				
-			{% endfor %}
-			
-			
-			{% for word in sentence.words %}				
-				{% for morpheme in word.morphemes %}
-					<div>
-					{% if morpheme.morpheme.is_found == 1 %}
-					<span style="color: red;">{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
-					{% else %}
-					<span>{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
+				{% for multimedia_element in text.multimedia %}
+					{% if multimedia_element.type == 'AUDIO' %}
+					<audio id="current" src="{{ multimedia_element.url }}#{{ sentence.multimedia_start }}" controls 
+					start="{{ sentence.multimedia_start }}" end="{{ sentence.multimedia_end }}">	
+					</audio>
 					{% endif %}
-					</div>
+				{% endfor %}
+				
+				{% for word in sentence.words %}
+				
+					{% if word.sentence_word.is_found == 1 %}
+					<span style="color: red;">{{ word.sentence_word.transcription }}</span>
+					{% else %}
+					<span>{{ word.sentence_word.transcription }}</span>
+					{% endif %}
+					
+				{% endfor %}
+				
+				
+				{% for word in sentence.words %}				
+					{% for morpheme in word.morphemes %}
+						<div>
+						{% if morpheme.morpheme.is_found == 1 %}
+						<span style="color: red;">{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
+						{% else %}
+						<span>{{ morpheme.morpheme.text }} = {{ morpheme.morpheme.gloss }}</span>
+						{% endif %}
+						</div>
+					{% endfor %}
 				{% endfor %}
 			{% endfor %}
-		{% endfor %}
-	</div>
-    {% endfor %}
+		</div>
+    	{% endfor %}
+    {% else %}
+    	<span style="color: red;">Ничего не найдено</span>
+	{% endif %}
+
 </div>
+
+<script>
+
+$('audio').one('canplay', function(event) {
+	var offsetTime = $(event.target).attr('start')/1000.0;
+	this.currentTime = offsetTime;
+});
+$('audio').bind('timeupdate', function () {
+	var endTime = $(event.target).attr('end');
+	var endTimeSeconds = endTime / 1000.0;
+    if (this.currentTime >= endTimeSeconds){
+    	this.pause();
+    }
+});
+
+
+</script>
 </body>
 </html>
